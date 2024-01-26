@@ -19,11 +19,10 @@
 - 차준섭 | @new._.juns
 - 김은지 | @ej9374
 ### Back-End Team
-- **표성은** | @pyoooooo_
-- 이제민 | @e_jjem
+- **이제민** | @e_jjem
+- 표성은 | @pyoooooo_
 - 박수연 | @suy_eon_7
-### DevOps
-- **강형준** | @marsboy_02
+- 강형준 | @marsboy_02
 ## 파트 분배
 - Design
   - 김고은 - navbar, home, activity, join Quipu
@@ -38,6 +37,7 @@
   - 표성은 -
   - 이제민 -
   - 박수연 -
+  - 강형준 - 
 ## 개발 환경
 - Framework: 
 - Database:
