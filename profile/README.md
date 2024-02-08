@@ -3,7 +3,7 @@
 
 - 서울시립대학교 중앙 컴퓨터 학술 동아리 퀴푸의 메인 웹입니다.
 - home, about, activity, activity detail(study, friendship, mt), recommend site, join Quipu 메뉴로 구성되어 있습니다.
-- Link 
+- <a href="https://front-end-zeta-five.vercel.app/">Web Link</a>
 ## 개발기간
 - 2023.10 - 2024.02  
 ## 멤버 구성
