@@ -7,7 +7,7 @@
 ## 개발기간
 - 2023.10 - 2024.02  
 ## 멤버 구성
-### 총괄 Project Manager
+### Project Manager
 - **이예나** | @2ye._na  
 ### Design Team
 - **김고은** | @k._.9oni
