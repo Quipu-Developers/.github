@@ -1,4 +1,4 @@
-# QUIPU 홈페이지
+# QUIPU 메인 웹
 <img width="600" alt="image" src="https://github.com/Quipu-Developers/.github/assets/147997324/9122451c-e0b1-41d3-a22c-5b1cb7eb49a1">
 
 - 서울시립대학교 중앙 컴퓨터 학술 동아리 퀴푸의 메인 웹입니다.
