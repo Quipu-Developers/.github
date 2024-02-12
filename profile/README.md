@@ -34,10 +34,16 @@
   - 차준섭 - join Quipu, footer
   - 김은지 - recommend site
 - Back-End
-  - 이제민 - DB 구축, 구현
-  - 표성은 - DB, 서버 연동
-  - 박수연 - 서버 구축, 구현
+  - 이제민 - join Quipu DB 구현, activity detail DB 구현, AWS - RDS, S3
+  - 표성은 - join Quipu DB와 서버 연동, front-end와 back-end 통합 구현, AWS - EC2
+  - 박수연 - 서버 구현, AWS - EC2
   - 강형준 - CI/CD 구축
 ## 개발 환경
-- Framework: 
-- Database:
+- Language: JavaScript
+- Package Manager: npm
+- Library: React.js, React Three Fiber
+- Runtime Environment: Node.js
+- Framework: Express.js
+- Database: MySQL
+- IDE: Visual Studio Code
+- Deployment System: AWS
